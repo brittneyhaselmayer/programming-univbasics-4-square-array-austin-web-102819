@@ -10,7 +10,6 @@ def square_array(array)
     return arr
     i += 1
  
- 
-  end 
+ end 
 end
 
